@@ -1,0 +1,90 @@
+body {
+    background-color: #60B2A6 !important;
+    font-family: "Montserrat" !important;
+    margin: 0;
+}
+
+h2 {
+
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: #218C7C;
+}
+
+.nav-item a {
+    color: #FDA500;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    color: #FFE2D2;
+}
+
+#header-section {
+    background-color: #FFE2D2 !important;
+}
+
+.header-logo {
+    margin: 30px;
+    max-width: 130px;
+}
+
+#about-section {
+    margin: 60px 40px;
+}
+
+.about span {
+    color: #FDA500;
+    font-weight: bold;
+}
+
+.buy {
+    text-align: center;
+}
+
+.shop img {
+    max-height: 300px;
+}
+
+.contact-info {
+    background-color: #218C7C;
+    color: #FDA500;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contact-info span {
+    color: #FFE2D2;
+}
+
+.contact-form-button {
+    background-color: #218C7C;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.contact-form-button:hover {
+    background-color: #FDA500;
+    color: #218C7C;
+}
+
+#footer {
+    background-color: #218C7C;
+    color: #FDA500;
+}
+
+.footer-logo {
+    margin: 30px;
+    max-width: 30px;
+}
